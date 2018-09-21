@@ -1,15 +1,15 @@
-#DeepCon'18 Deep Reinforcement Learning Workshop
+# DeepCon'18 Deep Reinforcement Learning Workshop
 
 
-## Katılım için gereksinimler
+## KatÄ±lÄ±m iÃ§in gereksinimler
 
-Workshop katılımı için temel Python bilgisi gerekmektedir. İnteraktif bir çalışma olacağı için laptopunuzla beraber gelmelisiniz, en geç 30 eylül tarihine kadar hazır olacak bu repoda DQN ajanının kullanım için hazır bir sınıfını bulacaksınız bu sınıfı openai gym cartpole ortamında nasıl kullanacağımızı ve bu sınıfın detaylarını birlikte inceleyeceğiz . [Python](https://www.python.org/downloads/) adresinden indirebileceğiniz Python'un son versiyonu bilgisayarınızda kurulu olmalıdır. Bu aşamalar tamamlandıktan sonra aşağıdaki kodu bilgisayarınızda çalıştırmanız zaman kazanmamız açısından önemlidir.
+Workshop katÄ±lÄ±mÄ± iÃ§in temel Python bilgisi gerekmektedir. Ä°nteraktif bir Ã§alÄ±ÅŸma olacaÄŸÄ± iÃ§in laptopunuzla beraber gelmelisiniz, en geÃ§ 30 eylÃ¼l tarihine kadar hazÄ±r olacak bu repoda DQN ajanÄ±nÄ±n kullanÄ±m iÃ§in hazÄ±r bir sÄ±nÄ±fÄ±nÄ± bulacaksÄ±nÄ±z bu sÄ±nÄ±fÄ± openai gym cartpole ortamÄ±nda nasÄ±l kullanacaÄŸÄ±mÄ±zÄ± ve bu sÄ±nÄ±fÄ±n detaylarÄ±nÄ± birlikte inceleyeceÄŸiz . [Python](https://www.python.org/downloads/) adresinden indirebileceÄŸiniz Python'un son versiyonu bilgisayarÄ±nÄ±zda kurulu olmalÄ±dÄ±r. Bu aÅŸamalar tamamlandÄ±ktan sonra aÅŸaÄŸÄ±daki kodu bilgisayarÄ±nÄ±zda Ã§alÄ±ÅŸtÄ±rmanÄ±z zaman kazanmamÄ±z aÃ§Ä±sÄ±ndan Ã¶nemlidir.
 
 ```
 git clone https://github.com/umutcanaltin/deepcon-drl-workshop.git
 pip install numpy matplotlib gym keras 
 ```
 
-	Görüşmek üzere!
+	GÃ¶rÃ¼ÅŸmek Ã¼zere!
 	Umut Can ALTIN
 https://umutcanaltin.github.io/
