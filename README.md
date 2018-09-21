@@ -1,5 +1,4 @@
-# deepcon-drl-workshop
-DeepCon'18 Deep Reinforcement Learning Workshop
+#DeepCon'18 Deep Reinforcement Learning Workshop
 
 
 ## Katýlým için gereksinimler
